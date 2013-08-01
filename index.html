@@ -1,142 +1,94 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Gainsborough's House</title>
+  <title>mini-museum-meanderings</title>
   <link rel='stylesheet' href='bootstrap/css/bootstrap.css'>
   <link rel='stylesheet' href='main.css'>
+
 </head>
 
-<body>
-  <div class="navbar navbar-fixed-top navbar-inverse">
-    <div class="navbar-inner">
-      <div class='container'>
-        <a class="brand" href="#">Gainsborough's House</a>
-        <ul class="nav">
-          <li class="active"><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Friends Area</a></li>
-        </ul>
-        <form class="navbar-search pull-right">
-          <input type="text" class="search-query" placeholder="Search">
-        </form>
-      </div>
-    </div>
-  </div>
+  
+<div class='container'>
+ <div class='page-header'>  
+   <h1>Welcome to the <strong>Mini-Museum-Meandering-Machine!</strong>
+   </h1>
+ </div>
+   
 
-  <div class='container'>
-    <div class="page-header">
-      <br>
-      <br>
-      <h1>Gainsborough's House <small>Social Forum</small></h1>
-    </div>
-    <div class='row'>
-      <div class='span4'>
-        <div id='profile_details'>
-          <img src="gainsborough-house.jpg">
-          <br><br>
-          <p>Thomas Gainsborough was an English portrait and landscape painter born in Sudbury 1727. Gainsborough House dates from the Tudor times; The original house, represented today only by the Entrance Hall and Aubrey Herbert Room, probably dates back to around 1500.  The oak doorway, was probably the original front door to the house, leading straight into the Entrance Hall from the street. Now the house is an exciting tribute to Gainsborough legacy. As as holding the largesst collections of Gainsborough's works in the world, the house also details his history and the influential art he played at the high point of English landscape art. Most importantly, the house provides new and apsiring artists with the skills to follow in his footsteps, from primary school children to adult evening classes, we have it all here at GH! Follow this forum to find out more about our classes, events and exclusive offers.</p>
-          <br>
-          <h4>Frequently asked questions</h4>
-          <table class='table table-bordered table-striped'>
-            <tbody>
-              <tr><td>Where?</td><td>Sudbury Suffolk,  CO10 2EU</td></tr>
-              <tr><td>When?</td><td>Mondays to Saturdays 10-5</td></tr>
-              <tr><td>Online?</td><td>(facebook/twitter/pinterest site)</td></tr>
-              <tr><td>Adults</td><td> £4</td></tr>
-              <tr><td>Children/Students</td><td> £2</td></tr>
-              <tr><td>Talk</td><td> £15</15></tr>
-            </tbody>
-          </table>
-          <br>
+ <body>
+  <div class='row'>
+   <div class='span4'>
+     <label>Please type in your name to start:</label>
+        <form method="post" action='/'>
+            <input type='text' name='user_name'>
+            <br>
+            <p class='text left'>
+              Right, all you need to do now is answer these simple questions
+            </p>
+            <br>
 
-Why not try out out new exusive app? Providing a step by step walkthrough with extra information about the fascinating character of Gainsborough, family activies and details of up and comming events!
-          <br>
-          <a class='btn'>Download now!</a>
-        </div>
-      </div>
+      <label>What type of mood are you in today?</label>
+            <label class="radio">
+                <input type="radio" name="mood" value="Stressed?">
+                Stressed
+            </label>
+            
+            <label class="radio">
+                <input type="radio" name="mood" value="Contemplative?">
+                Contemplative
+            </label>
+            
+            <label class="radio">
+                <input type="radio" name="mood" value="Inspired?">
+                Inspired
+            </label>
+            <label class="radio">
+                <input type="radio" name="mood" value="Bored?">
+                Bored
+            </label>
+            
+            <br>
+            <br>
 
-      <div class='span8'>
-        <div id='awards'>
-          
-          <span class="label label-success">Print Workshop</span>  <span class="label label-important">Print Gallery</span> <span class="label label-info">Competition Winners</span> <span class="label label-warning">Recent Events</span>
-        </div>
-        <div id='recent-activity'>
-          <div class='page-header'>
-            <h2>Recent activity</h2>
+            <label>What is your favourite out of the following:</label>
+            <label class="radio">
+                <input type="radio" name="fav" value="Vivid colour">
+                Vivid colour
+            </label>
+            
+            <label class="radio">
+                <input type="radio" name="fav" value="Challenging concepts">
+                Challenging concepts
+            </label>
+            
+            <label class="radio">
+                <input type="radio" name="fav" value="Famous icons">
+                Famous icons
+            </label>
+            <label class="radio">
+                <input type="radio" name="fav" value="Something unknown">
+                Something unknown
+            </label>
+
+            <br>
+
+            <button type='submit' class='btn btn-success'>Submit</button>
+          </p>
+          </form>
+   </div>
+ </span>
+
+
+          <div class='span8'>
+           <div id='picture'>
+            <span>
+              <IMG SRC="looking2.jpg" style="width:340px; height:500px;" >
+            </span>
+           </div>
           </div>
-          <ul class='media-list'>
-            <li class='media'>
-              <a class="pull-right" href='#'>
-                <img class='media-object' src='natgal.jpg'>
-              </a>
-              <div class="media-body">
-                <h4>Come and listen to the Andrew Hemmingway talk about Gainsborough tonight at 6, free for students!</h4>
-                <p>
-                  <a class='btn btn-small'>Like</a>  <a class='btn btn-small btn-success'>Share</a>
-                </p>
-              </div>
-            </li>
-            <li class='media'>
-              <a class="pull-right" href='#'>
-                <img class='media-object' src='inside.jpg'>
-              </a>
-              <div class="media-body">
-                <h4>Try out our new downloadable tours for GH, for ipad, kindle and plain old paper!</h4>
-                <p>
-                  <a class='btn btn-small'>Like</a>  <a class='btn btn-small btn-success'>Share</a>
-                </p>
-              </div>
-            </li>
-            <li class='media'>
-              <a class="pull-right" href='#'>
-                <img class='media-object' src='print.jpg'>
-              </a>
-              <div class="media-body">
-                <h4>Feeling the winter blues? Try out our new printing course</h4>
-                <p>
-                  <a class='btn btn-small'>Like</a>  <a class='btn btn-small btn-success'>Share</a>
-                </p>
-              </div>
-            </li>
-            <li class='media'>
-              <a class="pull-right" href='#'>
-                <img class='media-object' src='book.jpg'>
-              </a>
-              <div class="media-body">
-                <h4>In need of Christmas ideas? what about our new book, prefect for art fans</h4>
-                <p>
-                  <a class='btn btn-small'>Like</a>  <a class='btn btn-small btn-success'>Share</a>
-                </p>
-              </div>
-            </li>
-            <li class='media'>
-              <a class="pull-right" href='#'>
-                <img class='media-object' src='tea.jpg'>
-              </a>
-              <div class="media-body">
-                <h4>Fancy a cuppa? Come and try our winning cake recipe at the GH tearooms</h4>
-                <p>
-                  <a class='btn btn-small'>Like</a>  <a class='btn btn-small btn-success'>Share</a>
-                </p>
-              </div>
-            </li>
-            <li class='media'>
-              <a class="pull-right" href='#'>
-                <img class='media-object' src='sud.jpg'>
-              </a>
-              <div class="media-body">
-                <h4>WIN! Free tickets to the event next week for th best photo capturing the spirit of Sudbury!</h4>
-                <p>
-                  <a class='btn btn-small'>Like</a>  <a class='btn btn-small btn-success'>Share</a>
-                </p>
-              </div>
-            </li>
-            </div>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
+            
+           
+  </div>    
+ </div>
 </body>
 </html>

@@ -1,0 +1,931 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en-GB">
+<!--
+PageContent_C,1355753962571
+-->
+  <head>
+    		<title>
+	Home - National Trust</title>
+<meta name="description" content='Protects and opens to the public many historic houses and gardens, mills and monuments for great days out and visits. They also look after countryside and coastal sites.'/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="msvalidate.01" content="5DA5D4A7021ECE847C6E3E8CA86FCD2E"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/other_files/images/nt-main-appletouchicon.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/other_files/images/nt-main-appletouchicon2x.png"/>
+<!-- 187_NT_website_styles bundle -->
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-main-footer.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-main-foundation.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-main-header.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-main-tiles.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-main-widgets.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-main-form.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-player.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-main-outdoors.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/performancemessage.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/mapping.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/mappingpopup.css" media="all"/>
+					<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-main-ie6.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-player-ie6.css" media="all"/>
+					<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-main-ie7.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-player-ie7.css" media="all"/>
+					<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/resources/css/nt-main-ie8.css" media="all"/>					
+					<![endif]-->
+
+<!-- 466_Main_Head script bundle -->
+<script type="text/javascript" src="/resources/js/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery-ui-1.8.21.custom.min.js"></script>
+<script type="text/javascript" src="/resources/js/date.js"></script>
+<script type="text/javascript" src="/resources/js/jquery-cycle-plugin-2-99.js"></script>
+<script type="text/javascript" src="/resources/js/nt-fake-header-message.js"></script>
+<script type="text/javascript" src="/resources/js/nt-main-articlescroller.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.tabs.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.galleriffic-2.min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.opacityrollover.js"></script>
+<script type="text/javascript" src="/resources/js/nt-dropdown-functions.js"></script>
+<script type="text/javascript" src="/resources/js/jqueryscrollTo-min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.livequery-1.1.1.min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.htmltruncate-1.0.min.js"></script>
+<script type="text/javascript" src="/resources/js/nt-trails-functions.js"></script>
+<script type="text/javascript" src="/resources/js/swfobject.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.tipTip.js"></script>
+<script type="text/javascript" src="/resources/js/nt-main-widgets.js"></script>
+<script type="text/javascript" src="/resources/js/nt-main-accessible-tabs-init.js"></script>
+<script type="text/javascript" src="/resources/js/nt-main-accessible-rotation-init.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/resources/js/jw-player.config.js"></script>
+<script type="text/javascript" src="/resources/js/jwplayer.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.loader2.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.player2.js"></script>
+<script type="text/javascript" src="/resources/js/sitecatalyst-tagging.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.history.js"></script>
+<script type="text/javascript" src="/resources/js/cookie-notification-script.js"></script>
+<script type="text/javascript" src="/resources/js/mobile-device-browser-notification.js"></script>
+<script type="text/javascript" src="/resources/js/cookies-read-write.js"></script>
+<script type="text/javascript" src="/resources/js/ie7-notification-bar.js"></script>
+<script type="text/javascript" src="/resources/js/sfap/nt-sfap-tile-form.js"></script>
+<script type="text/javascript" src="//nexus.ensighten.com/nationaltrust/Bootstrap.js"></script>
+
+
+
+					<!-- On Homepage only -->
+<meta name="google-site-verification" content="r4i3UGoyBiYAAwrB4zFEdhE6ttnHGazbzj2hWZWyv4I"/>
+</head>
+    
+    	<body  class="" >
+    	<!-- Header -->
+    	<div class="header" id="header">
+	<div class="layout">
+		<a class="identity" href="/" title="National Trust">
+			National Trust
+		</a>
+		<ul class="skipControls">
+			<li>
+				<a href="#header">
+					Skip to header
+				</a>
+			</li>
+			<li>
+				<a href="#navigation">
+					Skip to navigation
+				</a>
+			</li>
+			<li>
+				<a href="#content">
+					Skip to content
+				</a>
+			</li>
+			<li>
+				<a href="#footer">
+					Skip to footer
+				</a>
+			</li>
+		</ul>
+		<div class="secondaryMenu">
+			<ul>
+				<li>
+					<a href="/article-1356393060630">Cookie policy</a>
+				</li>
+				<li>
+					<a href="https://join.nationaltrust.org.uk/newsletter/register">Sign up to our email</a>
+				</li>
+			</ul>
+			<form class="cse-search-box textbox" id="searchform">
+				<input type="hidden" name="cx" value="013977971265714106561:fujkcjd2dl0"/>
+				<input type="hidden" name="cof" value="FORID:10;NB:1" class="cof" disabled="disabled"/>
+				<input type="hidden" name="ie" value="UTF-8"/>
+				<label for="q" class="access-label">
+					Search the site:
+				</label>
+				<input type="text" name="q" id="q" maxlength="255" class="searchBox" value="Search the site" onblur="if(this.value==''){this.value='Search the site'}" onfocus="if(this.value=='Search the site'){this.value=''}"/>
+				<input type="submit" name="sa" value="Search" class="button blackBtn"/>
+			</form>
+			<script type="text/javascript">
+				$(".cse-search-box").attr("action","/sitesearchresult/");
+				$(".cse-search-box .cof").removeAttr("disabled");
+			</script>
+		</div>
+		<div class="menu topMenu" id="navigation">
+      
+
+
+
+
+
+<ul role="navigation" id="globalNav">
+		<li class="primary visit"><a href="/visit/" class="parent"><span>Visit</span></a>
+			<ul class="secondary">
+				<li><a href="/visit/places/find-a-place-to-visit/" class="child"><span>Find a place to visit</span></a></li>
+				<li><a href="/visit/places/" class="child"><span>Places</span></a></li>
+				<li><a href="/visit/days-out-and-itineraries/" class="child"><span>Days out &amp; itineraries</span></a></li>
+				<li class=""><a href="/visit/whats-on/" class="child"><span>What's on</span></a></li>
+				<li class=""><a href="/visit/activities/" class="child"><span>Activities</span></a></li>
+				<li class=""><a href="/visit/families/" class="child"><span>Families</span></a></li>
+				<li class=""><a href="/visit/groups-and-travel-trade/" class="child"><span>Groups &amp; travel trade</span></a></li>
+				<li class=""><a href="/visit/overseas-visitors/" class="child"><span>Overseas visitors</span></a></li>
+				<li class=""><a href="/visit/local-to-you/" class="child"><span>Local to you</span></a></li>
+				<li><a href="/visit/outdoors/" class="child"><span>Outdoors</span></a></li>
+			</ul>
+		</li>
+		<li class="primary what"><a href="/what-we-do/" class="parent"><span>What we do</span></a>
+			<ul class="secondary">
+				<li><a href="/what-we-do/what-we-protect/" class="child"><span>What we protect</span></a></li>
+				<li><a href="/what-we-do/news/" class="child"><span>News</span></a></li>
+				<li><a href="/what-we-do/who-we-are/" class="child"><span>Who we are</span></a></li>
+				<li><a href="/what-we-do/big-issues/" class="child"><span>Big issues</span></a></li>
+			</ul>
+		</li>
+		<li class="primary holidays"><a href="/holidays/" class="parent"><span>Holidays</span></a>
+			<ul class="secondary">
+				<li><a href="http://www.nationaltrustcottages.co.uk/" class="child"><span>Holiday cottages</span></a></li>
+				<li><a href="/holidays/camping/" class="child"><span>Camping</span></a></li>
+				<li><a href="/holidays/working-holidays/" class="child"><span>Working Holidays</span></a></li>
+				<li><a href="/holidays/hotels-and-bandbs/" class="child"><span>Hotels &amp; B&amp;Bs</span></a></li>
+				<li><a href="/holidays/tours-and-overseas/" class="child"><span>Tours &amp; overseas</span></a></li>
+			</ul>
+		</li>
+		<li class="primary involved"><a href="/get-involved/" class="parent"><span>Get involved</span></a>
+			<ul class="secondary">
+				<li><a href="/get-involved/donate/" class="child"><span>Donate</span></a></li>
+				<li><a href="/get-involved/volunteer/" class="child"><span>Volunteer</span></a></li>
+				<li><a href="/get-involved/online-community/" class="child"><span>Online community</span></a></li>
+				<li><a href="/get-involved/build-your-skills/" class="child"><span>Build your skills</span></a></li>
+				<li><a href="/get-involved/competitions-and-offers/" class="child"><span>Competitions &amp; offers</span></a></li>
+			</ul>
+		</li>
+		<li class="primary shop"><a href="/shop/" class="parent"><span>Shop</span></a>
+			<ul class="secondary">
+				<li><a href="http://shop.nationaltrust.org.uk/" class="child externalSite"><span class="hidden">External site</span> <span>National Trust shop</span></a></li>
+				<li><a href="/shop/farm-shops/" class="child"><span>Farm shops</span></a></li>
+				<li><a href="/shop/virtual-gifts/" class="child"><span>Virtual gifts</span></a></li>
+				<li><a href="/shop/products-we-recommend/" class="child"><span>Partner products</span></a></li>
+			</ul>
+		</li>
+		<li class="primary membership nodropdown"><a href="/membership/" class="parent"><span>Membership</span></a></li>
+	</ul>
+
+</div>
+	</div>
+</div>
+<!-- End of header -->
+    
+    	<!-- Content -->
+    	<div id="content">
+    		<div class="layout">
+    			<!--div class="width-16"-->
+    				
+
+
+  
+  	  
+	
+		
+		
+	
+	
+		
+	
+	<div role="main">
+		
+		
+		
+			
+				
+					
+					
+						
+						
+					<div class="row">
+                
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+        
+        
+            
+            
+                
+                
+                
+            <!--[Tile_C/HTMLCode_4_manual] c= Tile_C cid=1355793401013 -->
+		<div class="width-16">
+			<div class="tile">
+				<h3></h3>
+				<div class="staticTop">
+					<div class="messageBox campaign ioakleaf flyingkites"> <div class="poster"> <div class="lockup"> <p class="graphic">I oak leaf</p> <p class="special">flying kites</p> </div> <div class="statement"> <p>Catching the wind at Wicken Fen, special to Joe Belzar, aged 8</p> <p>Fly a kite, no. 7 of 50 things to do before you're 11&#190;</p> </div> <span class="badge">50 things</span> <a href="http://www.nationaltrust.org.uk/familydays" class="largelink">Find out more about our family days out</a> </div> <div class="searchpanel"> <h2>Find a place to visit</h2> <p>Enter a National Trust site, postcode, city, town, county or region.</p> <form action="/visit/places/find-a-place-to-visit/" method="GET" class="homeFind" id="homeFind"> <fieldset> <legend>Find a place to visit</legend> <label>Find</label> <input type="text" class="searchBox" value="" id="findPlace" name="findPlace" autocomplete="off" /> <input type="submit" value="Search" id="fapsubmit" class="btn blackBtn" /> </fieldset> </form> </div> <div class="calltoaction"> <p class="tspp">The Special Places Project</p> <p><a href="http://bit.ly/SpecialPlacesFB">Share your special places &#187;</a></p> </div> <div class="otherlinks"> <p>Support us by <a href="http://www.nationaltrust.org.uk/membership/">joining</a>, <a href="http://www.nationaltrust.org.uk/get-involved/donate/">donating</a>, <a href="http://www.nationaltrust.org.uk/get-involved/volunteer/">volunteering</a> or come along to one of our <a href="http://www.nationaltrust.org.uk/visit/whats-on/events/">events</a>.</p> </div> </div></div>
+				<p>
+					</p>
+				</div>
+		</div>
+
+		
+
+
+        
+    
+
+
+
+</div>
+            
+				
+					
+					
+						
+						
+					<div class="row">
+                
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+        
+        
+            
+            
+                
+                
+                
+            <!-- [Tile_C/TextBesidesImage_3_manual] c= Tile_C  cid= 1355771051922 -->
+<div class="width-12">
+    <div class="tile">
+        <div class="threecol-article">
+            <div class="imageCol">
+                <div class="caption">
+                    <a href="http://www.nationaltrust.org.uk/visit/places/find-a-place-to-visit/">
+                        <img alt="Enjoy the scents and sounds of our gardens in bloom on your next visit &copy; John Miller" src="/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1349105918732&ssbinary=true" title="Enjoy the scents and sounds of our gardens in bloom on your next visit &copy; John Miller"/>
+		                    </a>
+                        <p>Enjoy the scents and sounds of our gardens in bloom on your next visit</p>
+	                <p class="copyright">&copy; John Miller</p>
+                        </div>
+            </div>
+            <div class="textCol one">
+                <h3>
+                    <a href="http://www.nationaltrust.org.uk/visit/places/find-a-place-to-visit/">
+                        Spend a day with us</a>
+                        </h3>
+                <p><strong>Make the most of the summer, and spend some time at our places.</strong></p>
+<p>Grab a <a href="/article-1355784805423/">picnic</a> and head out to one of our <a href="/visit/places/gardens-and-parks/">gardens or parks</a> and soak up the sun and scenery. If the sun's not shining, explore the nooks and crannies of the houses, castles, lighthouses, pubs, mines and many other <a href="/visit/places/houses-and-buildings/">historic buildings</a> that we care for.</p><p class="follow-up">
+							<a href="http://www.nationaltrust.org.uk/visit/places/find-a-place-to-visit/">
+								Plan your day out</a>
+						</p>
+					</div>
+        </div>
+    </div>
+</div>
+
+        
+    
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+        
+        
+            
+            
+                
+                
+                
+            <!-- [Tile_C/ImageAndText_1_manual]  c = Tile_C cid = 1355789230042-->
+<div class="width-4">
+        <div class="tile">
+                <div class="onecol-article">
+                        <h3>
+							<a href="http://www.nationaltrust.org.uk/article-1355792909340/">
+										Puffin census results</a>
+								</h3>
+                    <div class="caption">
+							<a href="http://www.nationaltrust.org.uk/article-1355792909340/">
+										<img alt="Puffins on rocks in the Farne Islands, Northumbria" src="/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1349096405593&ssbinary=true" title="Puffin census results"/>
+											</a>
+								</div>
+                        <p>
+							<p>Results from a three-month survey of puffins on the world famous <a href="/farneislands">Farne Islands</a>, off the Northumberland coast, have shown an eight per cent increase in the number of breeding puffin pairs since 2008 when the last census showed a dramatic fall in numbers.</p></p>
+                        <p class="follow-up">
+                                <a href="http://www.nationaltrust.org.uk/article-1355792909340/">
+                                        More about the survey</a>
+                        </p>
+                </div>
+        </div>
+</div>
+
+
+        
+    
+
+
+
+</div>
+            
+				
+					
+					
+						
+						
+					<div class="row">
+                
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+        
+        
+            
+            
+                
+                
+                
+            <!--[Tile_C/ImageList_1_articles] c= Tile_C cid=1373516515394 -->
+<div class="width-4">
+	<div class="tile">
+		<h3><a href='http://www.nationaltrust.org.uk/visit/'>
+			Sunny days out</a>
+			</h3>
+		<ul class="basic-image-list">
+			<li>
+					<div class="caption">
+						<a href='http://www.nationaltrust.org.uk/article-1355784805423/'>
+								<img alt='Waterwheels have powered industrial innovation at Aberdulais for 400 years&nbsp;&copy; National Trust / David Hammond-Williams' src='/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=inline%3B+filename%3D738%252F182%252FWaterwheel%2B2%2B940x529_thumb_60x0.jpg&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1349096363116&ssbinary=true' title='Waterwheels have powered industrial innovation at Aberdulais for 400 years&nbsp;&copy; National Trust / David Hammond-Williams'/>
+							</a>
+						</div>
+					<h4>
+						<a href='http://www.nationaltrust.org.uk/article-1355784805423/'>
+							Have a picnic</a>
+					</h4>
+					<p>
+						Pack a picnic and catch up with friends and family. Our guide to eating al fresco with us.</p>
+				</li>
+			<li>
+					<div class="caption">
+						<a href='http://www.nationaltrust.org.uk/article-1356402625938/'>
+								<img alt='Children discovering the Tolkien-inspired Hidden Realm at The Vyne&nbsp;&copy; National Trust / David Hammond-Williams' src='/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=inline%3B+filename%3D252%252F674%252FThe%2BVyne%2BHidden%2BRealm2%2Bsmall_thumb_60x0.jpg&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1349109904769&ssbinary=true' title='Children discovering the Tolkien-inspired Hidden Realm at The Vyne&nbsp;&copy; National Trust / David Hammond-Williams'/>
+							</a>
+						</div>
+					<h4>
+						<a href='http://www.nationaltrust.org.uk/article-1356402625938/'>
+							Have a play</a>
+					</h4>
+					<p>
+						We have many play areas to explore, including natural ones in wild and wonderful places.</p>
+				</li>
+			<li>
+					<div class="caption">
+						<a href='http://www.nationaltrust.org.uk/article-1355784509362/'>
+								<img alt='Canons Ashby&nbsp;&copy; Andrew Butler' src='/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=inline%3B+filename%3D307%252F151%252Fntpl_61635_thumb_60x0.jpg&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1349096628395&ssbinary=true' title='Canons Ashby&nbsp;&copy; Andrew Butler'/>
+							</a>
+						</div>
+					<h4>
+						<a href='http://www.nationaltrust.org.uk/article-1355784509362/'>
+							Enjoy a summer garden</a>
+					</h4>
+					<p>
+						Celebrate the arrival of summer by visiting one of our top gardens in bloom.</p>
+				</li>
+			<li>
+					<div class="caption">
+						<a href='http://www.nationaltrust.org.uk/article-1355784852204/'>
+								<img alt='Our annual display of Lavender&nbsp;&copy; Rika Gordon' src='/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=inline%3B+filename%3D682%252F163%252F2080722.Dtuch%2Bgarden%2Blavenders%2B003_thumb_60x0.jpg&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1349095158041&ssbinary=true' title='Our annual display of Lavender&nbsp;&copy; Rika Gordon'/>
+							</a>
+						</div>
+					<h4>
+						<a href='http://www.nationaltrust.org.uk/article-1355784852204/'>
+							Watch a show</a>
+					</h4>
+					<p>
+						Celebrate summer with an outdoor theatre performance at some of our most beautiful places.</p>
+				</li>
+			</ul>
+		<p class="follow-up">
+			<a href=http://www.nationaltrust.org.uk/visit/>
+				Visit</a>
+		</p>
+		</div>
+</div>
+
+        
+    
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+        
+        
+            
+            
+                
+                
+                
+            <!--[Tile_C/Widget_2_manual] c= Tile_C cid=1355791093875 WidgetType : youtube -->
+
+<!--ics:callelement element="nt/util/SnoopToScreen" /-->
+<!-- user code here -->
+<div class="width-8">
+	<div class="tile t-youtube">
+		<h3>	
+						<a href='http://www.nationaltrust.org.uk/visit/outdoors/'>
+							Enjoy the outdoors</a>
+					</h3>
+		<div class="widget w-youtube">	
+			<div class="yt-video">
+					<p><a class="nm-player" href='http://www.youtube.com/watch?v=jHrxzM3ELoQ'>Video</a></p>
+			</div><!-- .yt-video -->
+		</div>	
+			<div class="video-placeholder">
+				<a class="playButton">play</a><img
+					src='/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=inline%3B+filename%3D577%252F832%252FLMO%2B-%2Bwalking%2B-%2Bresized%2Bfor%2Bweb_thumb_460x0.jpg&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1349098245253&ssbinary=true'
+					alt='Two young walkers on the rocks at Foreland Point, North Devon'>
+			</div>
+			<div class="textCol">
+				<p><strong>Life is for living, and the countryside is definitely the place to do it.</strong></p>
+<p>Watch our video about the landscapes we care for in Yorkshire, and the many different ways people of all ages enjoy exploring it.</p>
+<p>Inspired? Get outdoors this summer. If you're under 12, take up our <a href="https://www.50things.org.uk">50 things to do before you're 11 &frac34;</a> challenge.</p><p class="follow-up">	
+						<a href='http://www.nationaltrust.org.uk/visit/outdoors/'>
+							The great outdoors</a>
+					</p>
+				</div>
+	</div><!-- .tile -->
+</div><!-- .width -->
+
+<!--ics:callelement element="nt/util/SnoopToConsole" /-->
+<!--ics:callelement element="nt/util/SnoopToScreen" /-->
+
+        
+    
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+        
+        
+            
+            
+                
+                
+                
+            <!--[Tile_C/ImageList_1_manual] c=Tile_C cid=1355780630124 -->
+    <div class="width-4">
+        <div class="tile">
+            <h3><a href='http://www.nationaltrust.org.uk/what-we-do/news/'>
+                    Latest news</a>
+                </h3>
+            <ul class="basic-image-list">
+                <!--  for each element -->
+                    <li>
+                        <div class="caption">
+                            <a href='http://www.nationaltrust.org.uk/article-1355792148702/'>
+                            <img alt='Allan is nominated for the Love Place Award&nbsp;&copy; National Trust' src='/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=inline%3B+filename%3D112%252F435%252FAllan-Davies_thumb_60x0.jpg&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1349109124418&ssbinary=true' title='Allan is nominated for the Love Place Award&nbsp;&copy; National Trust'/>
+                            </a>
+                            </div>
+                        <h4>
+                            <a href='http://www.nationaltrust.org.uk/article-1355792148702/'>
+                                Winners of Octavia Hill Awards announced</a>
+                        </h4>
+                        <p>This year&rsquo;s unsung 'green heroes' are celebrated in our Octavia Hill Awards. </p></li>
+                    <!--  end of for each -->
+                <!--  for each element -->
+                    <li>
+                        <div class="caption">
+                            <a href='http://www.nationaltrust.org.uk/article-1355791538562/'>
+                            <img alt='Classic illustration of Christopher Robin and Winnie the Pooh&nbsp;&copy; The E. H. Shepard Trust, reproduced by permission of Curtis Brown Group' src='/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=inline%3B+filename%3D726%252F1017%252FCROP%2BWtP_thumb_60x0.jpg&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1349109674679&ssbinary=true' title='Classic illustration of Christopher Robin and Winnie the Pooh&nbsp;&copy; The E. H. Shepard Trust, reproduced by permission of Curtis Brown Group'/>
+                            </a>
+                            </div>
+                        <h4>
+                            <a href='http://www.nationaltrust.org.uk/article-1355791538562/'>
+                                Winnie the Pooh exhibition at Mottisfont</a>
+                        </h4>
+                        <p>Rare illustrations of Winnie-the-Pooh and friends can be seen at Mottisfont from 13 July.</p></li>
+                    <!--  end of for each -->
+                <!--  for each element -->
+                    <li>
+                        <div class="caption">
+                            <a href='http://www.nationaltrust.org.uk/what-we-do/big-issues/transport-and-tourism/'>
+                            <img alt='Vision for HS2&nbsp;&copy; The E. H. Shepard Trust, reproduced by permission of Curtis Brown Group' src='/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=inline%3B+filename%3D285%252F312%252Fnt-960x529-hs2_thumb_60x0.jpg&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1349111403993&ssbinary=true' title='Vision for HS2&nbsp;&copy; The E. H. Shepard Trust, reproduced by permission of Curtis Brown Group'/>
+                            </a>
+                            </div>
+                        <h4>
+                            <a href='http://www.nationaltrust.org.uk/what-we-do/big-issues/transport-and-tourism/'>
+                                Response to HS2</a>
+                        </h4>
+                        <p>Our response to the HS2 draft environmental statement, plus made a new animation about it.</p></li>
+                    <!--  end of for each -->
+                </ul>
+            <p class="follow-up">
+                <a href='http://www.nationaltrust.org.uk/what-we-do/news/'>
+                    More news</a>
+            </p>
+            </div>
+    </div>
+
+        
+    
+
+
+
+</div>
+            
+				
+					
+					
+						
+						
+					<div class="row">
+                
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+        
+        
+            
+            
+                
+                
+                
+            <!-- [Tile_C/ImageAndText_1_manual]  c = Tile_C cid = 1355790316794-->
+<div class="width-4">
+        <div class="tile">
+                <div class="onecol-article">
+                        <h3>
+							<a href="http://www.nationaltrust.org.uk/article-1355785659343/">
+										Camping</a>
+								</h3>
+                    <div class="caption">
+							<a href="http://www.nationaltrust.org.uk/article-1355785659343/">
+										<img alt="Let’s go outdoors - camp under the stars" src="/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1349097320392&ssbinary=true" title="Camping"/>
+											</a>
+								</div>
+                        <p>
+							<p>What better way to enjoy our fabulous landscapes, than to stay right in the heart of them. Discover our campsites, and the many different ways you can enjoy a night or two away from every day life.</p></p>
+                        <p class="follow-up">
+                                <a href="http://www.nationaltrust.org.uk/article-1355785659343/">
+                                        Best places to camp</a>
+                        </p>
+                </div>
+        </div>
+</div>
+
+
+        
+    
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+        
+        
+            
+            
+                
+                
+                
+            <!-- [Tile_C/ImageAndText_1_manual]  c = Tile_C cid = 1355777502724-->
+<div class="width-4">
+        <div class="tile">
+                <div class="onecol-article">
+                        <h3>
+							<a href="http://www.nationaltrust.org.uk/visit/whats-on/">
+										Events</a>
+								</h3>
+                    <div class="caption">
+							<a href="http://www.nationaltrust.org.uk/visit/whats-on/">
+										<img alt="An eveing of summer entertainment " src="/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1349110541260&ssbinary=true" title="Events"/>
+											</a>
+								</div>
+                        <p>
+							<p>Combine your day out with a visit to one of our exhibitions or join in with one of the many events held at our places every day. This weekend, why not join in with <a href="/article-1355792149545/">Petworth's Big Dig</a>, or visit <a href="http://www.nationaltrust.org.uk/visit/whats-on/find-an-event/?eventId=2108064744">Stourhead's craft fair</a>?</p></p>
+                        <p class="follow-up">
+                                <a href="http://www.nationaltrust.org.uk/visit/whats-on/">
+                                        Our events</a>
+                        </p>
+                </div>
+        </div>
+</div>
+
+
+        
+    
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+        
+        
+            
+            
+                
+                
+                
+            <!-- [Tile_C/ImageAndText_1_manual]  c = Tile_C cid = 1355779896337-->
+<div class="width-4">
+        <div class="tile">
+                <div class="onecol-article">
+                        <h3>
+							<a href="https://www.facebook.com/nationaltrust/app_295419163920224">
+										Your special places</a>
+								</h3>
+                    <div class="caption">
+							<a href="https://www.facebook.com/nationaltrust/app_295419163920224">
+										<img alt="Share your love of special places" src="/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1349108556114&ssbinary=true" title="Your special places"/>
+											</a>
+								</div>
+                        <p>
+							<p>We all have a place that means something special to us - it might be somewhere we go to get away from it all, or the spot we spent every summer with our family as a child.</p></p>
+                        <p class="follow-up">
+                                <a href="https://www.facebook.com/nationaltrust/app_295419163920224">
+                                        Share your special place</a>
+                        </p>
+                </div>
+        </div>
+</div>
+
+
+        
+    
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+        
+        
+            
+            
+                
+                
+                
+            <!--[Tile_C/ImageList_1_manual] c=Tile_C cid=1356699925669 -->
+    <div class="width-4">
+        <div class="tile">
+            <h3>More about us</h3>
+            <ul class="basic-image-list">
+                <!--  for each element -->
+                    <li>
+                        <div class="caption">
+                            <a href='http://www.nationaltrust.org.uk/what-we-do/'>
+                            <img alt='Mr Straw&#39;s House&nbsp;&copy; Geoffrey Frosh' src='/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=inline%3B+filename%3D30%252F49%252Fntpl_57291_thumb_60x0.jpg&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1349096702343&ssbinary=true' title='Mr Straw&#39;s House&nbsp;&copy; Geoffrey Frosh'/>
+                            </a>
+                            </div>
+                        <h4>
+                            <a href='http://www.nationaltrust.org.uk/what-we-do/'>
+                                What we do</a>
+                        </h4>
+                        <p>We care for houses and their contents, open spaces and their inhabitants and more.</p></li>
+                    <!--  end of for each -->
+                <!--  for each element -->
+                    <li>
+                        <div class="caption">
+                            <a href='http://www.nationaltrust.org.uk/holidays/'>
+                            <img alt='The Round House holiday cottage, Ickworth.&nbsp;&copy; National Trust' src='/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=inline%3B+filename%3D581%252F314%252Froundhouse_thumb_60x0.jpg&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1349096407695&ssbinary=true' title='The Round House holiday cottage, Ickworth.&nbsp;&copy; National Trust'/>
+                            </a>
+                            </div>
+                        <h4>
+                            <a href='http://www.nationaltrust.org.uk/holidays/'>
+                                Holidays</a>
+                        </h4>
+                        <p>Take a break with us - we've got cottages, hotels, B&amp;Bs and even campsites to stay in.</p></li>
+                    <!--  end of for each -->
+                <!--  for each element -->
+                    <li>
+                        <div class="caption">
+                            <a href='http://www.nationaltrust.org.uk/get-involved/'>
+                            <img alt='Volunteers Janet and Kate are regularly seen baking in our 1950s kitchen&nbsp;&copy; David Watson' src='/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=inline%3B+filename%3D617%252F226%252F50s%2Bweekend%2B%25282%2529%2BDavid%2BWatson_thumb_60x0.jpg&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1349098925275&ssbinary=true' title='Volunteers Janet and Kate are regularly seen baking in our 1950s kitchen&nbsp;&copy; David Watson'/>
+                            </a>
+                            </div>
+                        <h4>
+                            <a href='http://www.nationaltrust.org.uk/get-involved/'>
+                                Get involved</a>
+                        </h4>
+                        <p>We rely on people giving us their time and money to ensure that we can be enjoyed for ever.</p></li>
+                    <!--  end of for each -->
+                </ul>
+            </div>
+    </div>
+
+        
+    
+
+
+
+</div>
+            
+				
+			
+		
+	</div>
+<!--/div-->
+    		</div>
+    	</div><!-- End of content -->
+    
+        <!-- Footer -->
+        <!-- nt/rendering/common/FooterStatic -->
+<div class="footer" id="footer">
+	<div class="layout">
+		<div class="section first">
+			<h3>About us</h3>
+			<p>We're a UK conservation charity, protecting historic places and green spaces, and opening them up for ever, for everyone. Find out more <a href="/about-us">about us</a>.</p>
+			<p>We love to hear more about our supporters, so if you fancy getting in touch, you can <a href="/contact-us/">contact us</a>.</p>
+		</div>
+		<div class="section">
+			<h3>Good stuff</h3>
+			<ul class="goodstuff" role="navigation">
+				<li><a href="/press/">Media</a></li>
+				<li><a href="http://www.nationaltrustjobs.org.uk/">Jobs</a></li>
+				<li><a href="http://www.nationaltrustimages.org.uk/">National Trust Images</a></li>
+				<li><a href="http://www.nationaltrustcollections.org.uk/">Our Collections</a></li>
+				<li><a href="/venue-hire/">Venue hire</a></li>
+				<li><a href="/lettings/">Lettings</a></li>
+				<li><a href="/about-us/working-with-us/">Our partners</a></li>
+				<li><a href="/article-1356393034523/">Information for suppliers</a></li>
+			</ul>
+		</div>
+		<div class="section">
+			<h3>Follow us</h3>
+			<ul class="gosocial" role="navigation">
+				<li><a href="http://www.facebook.com/nationaltrust/" class="facebook">Facebook</a></li>
+				<li><a href="http://twitter.com/nationaltrust/" class="twitter">Twitter</a></li>
+				<li><a href="http://www.flickr.com/groups/nationaltrust/" class="flickr">Flickr</a></li>
+				<li><a href="http://www.youtube.com/user/nationaltrustcharity/" class="youtube">YouTube</a></li>
+				<li><a href="http://pinterest.com/nationaltrust/" class="pinterest">Pinterest</a></li>
+				<li><a href="http://statigr.am/tag/nationaltrust" class="instagram">Instagram</a></li>
+			</ul>
+		</div>
+		<div class="section last">
+			<h3>Technical bits</h3>
+			<ul class="technical" role="navigation">
+				<li><a href="/article-1356393060630/">Cookie policy</a></li>
+				<li><a href="/accessibility/">Accessibility</a></li>
+				<li><a href="/article-1356393885478/">Privacy policy</a></li>
+				<li><a href="/article-1356395744743/">Terms and conditions</a></li>
+			</ul>
+		</div>
+		<ul class="charity">
+			<li>&copy; National Trust</li>
+			<li>Registered Charity 205846</li>
+			<li>Heelis, Kemble Drive, Swindon SN2 2NA</li>
+		</ul>
+	</div>
+</div><!-- footer -->
+<!-- End of footer -->
+        <script type="text/javascript">
+            dropdown('globalNav', 'selected', 0);
+            document.write('<style type="text/css"> .javascript-enabled {display: none;} </style>');
+            document.documentElement.className += " js";
+        </script>
+        <script>
+var ntTag = ntTag || {};
+ntTag['taggingVersion'] = 'Release Code:2  Tagging:1';
+ntTag['c'] = 'PageContent_C';
+ntTag['cid'] = '1355753962571';
+ntTag['ParentPageType'] = 'Corporate';
+ntTag['path'] = 'http://www.nationaltrust.org.uk/';
+ntTag['page_name'] = 'Home';
+</script>
+</body>  
+    </html>
